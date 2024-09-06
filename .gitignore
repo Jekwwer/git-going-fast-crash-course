@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Temporary files
+*.log
+*.tmp
+
+# MacOS files
+.DS_Store
+
+# SASS cache files
+.sass-cache
+
+# Built files
+/dist/
